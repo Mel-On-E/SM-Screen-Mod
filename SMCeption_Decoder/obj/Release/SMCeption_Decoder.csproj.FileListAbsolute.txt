@@ -1,0 +1,25 @@
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Buffers.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Memory.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Numerics.Vectors.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Text.Json.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Buffers.xml
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Memory.xml
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Numerics.Vectors.xml
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SMCeption_Decoder.csproj.AssemblyReference.cache
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SMCeption_Decoder.csproj.CoreCompileInputs.cache
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SMCeption_Decoder.csproj.CopyComplete
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\dataPath.txt
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\SM Screen Mod Decoder.exe.config
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\SM Screen Mod Decoder.exe
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\SM Screen Mod Decoder.pdb
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SM Screen Mod Decoder.exe
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SM Screen Mod Decoder.pdb
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\SM Screen Mod Decoder.exe.manifest
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\bin\Release\SM Screen Mod Decoder.application
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SM Screen Mod Decoder.exe.manifest
+C:\Users\claas\source\repos\SMCeption_Decoder\SMCeption_Decoder\obj\Release\SM Screen Mod Decoder.application
